@@ -40,9 +40,11 @@ Various links to cool things in art & programming 4 free.
 - **[Smart Guestbook](https://www.smartgb.com/)** Free guestbook site so people can comment
 - **[tamaNOTchi](https://tamanotchi.world/)** Virtual pet you can embed in forums & sites
 - **[textanim](https://textanim.com/)** 90s animated web titles
+- **[Open Cursor Library](http://www.rw-designer.com/cursor-library])** Custom cursor sprites
 
 ## Fonts
 
+- **[TypeRip](http://badnoise.net/TypeRip/)** Used for ripping adobe fonts
 - **[planet.dk](http://planet.dk/fonts/)** Very Y2K
 - **[Magenta](https://www.dafont.com/magenta.font)** Main font used for my titles
 - **[June Expt](https://fonts.adobe.com/fonts/june-expt-variable)** font used for ACID OCEAN title
