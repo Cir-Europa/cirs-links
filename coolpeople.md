@@ -3,7 +3,7 @@
 [![A Random Site](/buttons/coolpeople/random-btn.png)](https://arandomsite.neocities.org/)
 [![Matt Cole Wilson](/buttons/coolpeople/mcw-button.gif)](https://mattcolewilson.com/)
 [![Cinni.net](/buttons/coolpeople/cinni_angelbutton3.gif)](https://cinni.net/)
-[![Snals](/buttons/coolpeople/8ap351.png)](https://snals.neocities.org)
+[![Snals](/buttons/coolpeople/snalsbutton.png)](https://snals.neocities.org)
 [![sadgrl.online](/buttons/coolpeople/sad-btn.gif)](https://sadgrl.online/)
 [![Exo.pet](/buttons/coolpeople/exopetbutton1.png)](https://exo.pet/)
 
