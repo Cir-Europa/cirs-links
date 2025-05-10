@@ -6,6 +6,7 @@
 [![Snals](/buttons/coolpeople/snalsbutton.png)](https://snals.neocities.org)
 [![sadgrl.online](/buttons/coolpeople/sad-btn.gif)](https://sadgrl.online/)
 [![Exo.pet](/buttons/coolpeople/exopetbutton1.png)](https://exo.pet/)
+[![msx.gay](/buttons/coolpeople/msx.gif)](https://msx.gay/)
 
 
 - **[Opinionated Guides](https://opguides.info/)** Good learning for tech, art, music. 
