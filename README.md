@@ -15,6 +15,7 @@ Various links to cool things in art & programming 4 free.
 - **[Waveform free](https://www.tracktion.com/products/waveform-free)** A free cross-platform [DAW](https://www.producersphere.com/daw-definition/)
 - **[Mixxx](https://mixxx.org/)** A Free and Open Source DJ software
 - **[Audacity](https://www.audacityteam.org/)** A Free and Open Source audio editor (with the recent changes being made, defo gonna be the GOAT sampling tool)
+- **[Ableton Live 11 (keygen)](https://peeplink.in/96ed0e3af364)** You need to extract it using winrar, 7zip will corrupt the file for some reason. Also windows defender will try to delete the keygen.
 
 ### Vocal Synth
 - **[UTAU](http://utau2008.web.fc2.com/)** A free vocal synthesizer. It's very finicky and unintuitive, especially if you're a beginner. Watch [this tutorial series](https://www.youtube.com/watch?v=IwA5Q70OTEs&list=PLVcRferHkEwJFkDJtvoJ9YxrGUnkpYa5X) if you plan on using it.
@@ -26,7 +27,6 @@ Various links to cool things in art & programming 4 free.
 - **[FireAlpaca](https://firealpaca.com/)** A free 2D art application. I mostly use it for pixel art and editing images.
 - **[Blender](https://www.blender.org/)** A Free and Open Source 3D creation suite. Used for the 3D renders on this site.
 - **[Inkscape](https://inkscape.org/)** A free 2D [vector](https://concepts.app/en/digital-art-raster-vs-vector/) program. I use it for logo design & graphics.
-- **[Deep Dream Generator](https://deepdreamgenerator.com/)** I used this way back before the AI boom; it used to have a feature where you could make it draw an image using the texture of another image & that's how my profile pic was made. It seems since then they've pivoted to gen AI only :/
 
 ### Web
 - **[Visual Studio Code](https://visualstudio.microsoft.com/)** A free code editor by Microsoft. I use it to code this site.
@@ -48,3 +48,6 @@ Various links to cool things in art & programming 4 free.
 - **[planet.dk](http://planet.dk/fonts/)** Very Y2K
 - **[Magenta](https://www.dafont.com/magenta.font)** Main font used for my titles
 - **[June Expt](https://fonts.adobe.com/fonts/june-expt-variable)** font used for ACID OCEAN title
+
+### Misc
+- **[Deep Dream Generator](https://deepdreamgenerator.com/)** I used this way back before the AI boom; it used to have a feature where you could make it draw an image using the texture of another image & that's how my profile pic was made. It seems since then they've pivoted to gen AI only :/
