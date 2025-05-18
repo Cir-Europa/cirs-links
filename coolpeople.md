@@ -12,5 +12,6 @@
 [![XP Zone](/buttons/coolpeople/xpzone.gif)](https://xp-zone.neocities.org/)
 [![Wacky Workbench](/buttons/coolpeople/ww_button1.png)](https://wackyworkbench.neocities.org/)
 [![Drop 'n Spindash](/buttons/coolpeople/DnSDbutton2.gif)](https://dropandspindash.neocities.org/)
+[![DIAMOND DISTRICT](/buttons/coolpeople/DIAMOND DISTRICT.png)](https://xn--tr8h8c.ws/)
 
 - **[Opinionated Guides](https://opguides.info/)** Good learning for tech, art, music. 
