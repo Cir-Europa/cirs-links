@@ -15,3 +15,4 @@
 [![DIAMOND DISTRICT](/buttons/coolpeople/DIAMONDDISTRICT.png)](https://xn--tr8h8c.ws/)
 
 - **[Opinionated Guides](https://opguides.info/)** Good learning for tech, art, music. 
+- **[Akarmyu](https://akarmyu.neocities.org/)**
